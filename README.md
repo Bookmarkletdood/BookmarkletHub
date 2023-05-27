@@ -1,5 +1,5 @@
 # BookmarkletHub
-This is a project I am currently making called the “BookmarkletHub”. This is supposed to be a page with a TON of bookmarklets.
+This is a project I am currently making called the “BookmarkletHub”. This is supposed to be a page with a TON of bookmarklets. (And maybe files? Scroll to the bottom for information on that.)
 # Status
 # BookmarkletHub.html
 I am making the design but this is how it will go.
