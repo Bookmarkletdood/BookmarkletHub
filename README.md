@@ -4,8 +4,8 @@ This is a project I am currently making called the “BookmarkletHub”. This is
 # BookmarkletHub.html
 I am making the design but this is how it will go.
 #1 Design
-#2 Bookmarklets
-#3 Credits
+#2 Credits
+#3 Bookmarklets
 # BookmarkletHub.css
 I'm pretty sure that the CSS file is done but I'm a beginner coder so don't expect it to be done. (It will still be published on this page tho.)
 # BookmarkletHub.js
