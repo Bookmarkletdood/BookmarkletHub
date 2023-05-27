@@ -1,5 +1,7 @@
 # BookmarkletHub
 This is a project I am currently making called the “BookmarkletHub”. This is supposed to be a page with a TON of bookmarklets. (And maybe files? Scroll to the bottom for information on that.)
+# How to download (Doesn't work yet.)
+It does not work cause there is no file but how you will download it is a .zip file. You download it and then go to your files and double-click until you find the “BookmarkletHub.html” file. (for Chromebook) If you're on Windows (this is the best way I know because I develop on mobile) it (probably) automatically opens on Notepad or a coding software so you have to click open in Chrome. 
 # Status
 # BookmarkletHub.html
 I am making the design (as of 5/26/23) but this is how it will go.
