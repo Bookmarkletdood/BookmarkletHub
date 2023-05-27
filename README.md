@@ -2,10 +2,10 @@
 This is a project I am currently making called the “BookmarkletHub”. This is supposed to be a page with a TON of bookmarklets. (And maybe files? Scroll to the bottom for information on that.)
 # Status
 # BookmarkletHub.html
-I am making the design but this is how it will go.
-#1 Design
-#2 Credits
-#3 Bookmarklets
+I am making the design (as of 5/26/23) but this is how it will go.
+#1 🟧 Credits
+#2 🟨 Design
+#3 ⬛️ Bookmarklets
 # BookmarkletHub.css
 I'm pretty sure that the CSS file is done but I'm a beginner coder so don't expect it to be done. (It will still be published on this page tho.)
 # BookmarkletHub.js
