@@ -5,9 +5,10 @@ It does not work cause there is no file but how you will download it is a .zip f
 # Status
 # BookmarkletHub.html
 I am making the design (as of 5/26/23) but this is how it will go.
-#1 🟧 Credits
-#2 🟨 Design
-#3 ⬛️ Bookmarklets
+#1 🟩 Credits
+#2 ⬛️ Other pages
+#3 🟨 Design
+#4 ⬛️ Bookmarklets
 # BookmarkletHub.css
 I'm pretty sure that the CSS file is done but I'm a beginner coder so don't expect it to be done. (It will still be published on this page tho.)
 # BookmarkletHub.js
