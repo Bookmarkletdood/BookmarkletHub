@@ -1,11 +1,17 @@
+body {
+  background-color: black;
+}
 h1 {
 text-align:center;
+  color: dimgrey;
 }
 h2 {
 text-align:center;
+  color: dimgrey:
 }
 p {
 text-align:center;
+  color: dimgrey;
 }
 a {
 target=_blank
